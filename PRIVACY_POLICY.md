@@ -36,3 +36,39 @@ If the app's privacy practices change in the future, this policy will be updated
 
 If you have any questions about this Privacy Policy, you can contact us at: yagizadadag1@icloud.com
 
+---
+
+# Gizlilik Politikası – Footprints
+
+**Son güncelleme: Aralık 2025**
+
+Footprints, gizliliği öncelik alan bir seyahat günlüğü uygulamasıdır. Gezilerinizin size ait olduğuna inanıyoruz.
+
+## Veri Toplama
+
+Footprints herhangi bir kişisel veri toplamaz, saklamaz veya paylaşmaz.
+Uygulama hesap oluşturmayı veya kullanıcı kaydı gerektirmez.
+
+Tüm geziler, istatistikler ve tercihler yalnızca cihazınızda saklanır ve harici sunuculara aktarılmaz.
+
+## Konum Bilgisi
+
+Footprints, cihazınızın anlık konumunu kullanmaz.
+Uygulamada gösterilen konumlar yalnızca kullanıcı tarafından eklenen şehir bilgilerine dayanır.
+
+## Önceden Yüklenmiş İçerikler
+
+Uygulama, bilgilendirici özellikler sunmak için önceden yüklenmiş statik içerikler içerebilir. Bu içerikler kişiselleştirilmez ve veri toplamaz.
+
+## Takip
+
+Footprints, takip teknolojileri, analiz servisleri veya reklam tanımlayıcıları kullanmaz.
+
+## Veri Silme
+
+Kullanıcılar, uygulama içindeki sıfırlama seçeneği ile tüm verilerini kalıcı olarak silebilir.
+
+## İletişim
+
+Bu gizlilik politikasıyla ilgili sorularınız için bizimle iletişime geçebilirsiniz: yagizadadag1@icloud.com
+
