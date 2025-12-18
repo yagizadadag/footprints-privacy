@@ -68,6 +68,10 @@ Footprints, takip teknolojileri, analiz servisleri veya reklam tanımlayıcılar
 
 Kullanıcılar, uygulama içindeki sıfırlama seçeneği ile tüm verilerini kalıcı olarak silebilir.
 
+## Politika Değişiklikleri
+
+Uygulamanın gizlilik uygulamaları gelecekte değişirse, bu politika buna göre güncellenecektir.
+
 ## İletişim
 
 Bu gizlilik politikasıyla ilgili sorularınız için bizimle iletişime geçebilirsiniz: yagizadadag1@icloud.com
